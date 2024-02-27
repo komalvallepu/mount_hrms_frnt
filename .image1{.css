@@ -1,0 +1,42 @@
+    .image1{
+        float: left;
+     margin-right: -80px;
+     margin-top: -160px;
+     width: 200px;
+     height: 200px;
+    }
+    .container1{
+        float:right;
+        max-width: 800px;
+        margin: 10px auto;
+        padding: 20px;
+        width:auto;
+    }
+    image2{
+        float: right;
+     margin-left: -80px;
+     margin-top: -160px;
+     width: 200px;
+     height: 200px;
+    }
+    .container2{
+        float:right;
+        max-width: 800px;
+        margin: 10px auto;
+        padding: 20px;
+        width:auto;
+    }
+    image3{
+        float: left;
+     margin-right: -80px;
+     margin-top: -160px;
+     width: 200px;
+     height: 200px;
+    }
+    .container3{
+        float:right;
+        max-width: 800px;
+        margin: 10px auto;
+        padding: 20px;
+        width:auto;
+    }
